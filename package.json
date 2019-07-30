@@ -1,0 +1,23 @@
+{
+  "name": "employee-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^6.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francofle/Firebase-EmployeeData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francofle/Firebase-EmployeeData/issues"
+  },
+  "homepage": "https://github.com/francofle/Firebase-EmployeeData#readme"
+}
